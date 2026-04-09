@@ -160,6 +160,6 @@ Push and create PR
 🧩 Author
 
 Your Name Here
-📧 your-email@example.com
+📧 harini19082006@gmail.com
 
 🔗 GitHub: https://github.com/har06ni/bridgegap
