@@ -71,7 +71,7 @@ Prerequisites
 Node.js 16+
 npm or yarn
 1. Clone Repository
-git clone https://github.com/xxxx/SkillBridge-AI.git
+git clone https://github.com/har06ni/bridgegap
 cd SkillBridge-AI
 2. Backend Setup
 cd backend
@@ -162,4 +162,4 @@ Push and create PR
 Your Name Here
 📧 your-email@example.com
 
-🔗 GitHub: https://github.com/xxxx
+🔗 GitHub: https://github.com/har06ni/bridgegap
