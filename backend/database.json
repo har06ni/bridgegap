@@ -1,0 +1,282 @@
+{
+  "users": [
+    {
+      "email": "student@test.com",
+      "password": "password123",
+      "name": "Test Student",
+      "role": "Student",
+      "skills": [
+        "React",
+        "Node.js",
+        "JavaScript",
+        "Express",
+        "MongoDBTailwind CSS"
+      ],
+      "interests": "AI and Web Development",
+      "courses": [
+        "Full Stack Dev (Coursera)",
+        "Modern React (Udemy)"
+      ]
+    },
+    {
+      "email": "recruiter@test.com",
+      "password": "password123",
+      "name": "Test Recruiter",
+      "role": "Recruiter",
+      "company": "TechCorp"
+    },
+    {
+      "email": "jane.smith@example.com",
+      "name": "Jane Smith",
+      "role": "Student",
+      "skills": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "CSS"
+      ],
+      "courses": [
+        "Advanced React Patterns",
+        "Modern CSS"
+      ]
+    },
+    {
+      "name": "xxx",
+      "email": "xxx@gmail.com",
+      "password": "123",
+      "role": "Student",
+      "skills": [
+        "React",
+        "tailwind css",
+        "javascript",
+        "express"
+      ],
+      "interests": "",
+      "courses": [
+        "database certificate"
+      ]
+    },
+    {
+      "name": "yyy",
+      "email": "yyy@gmail.com",
+      "password": "123",
+      "role": "Recruiter",
+      "company": "hcl"
+    },
+    {
+      "name": "Test Recruiter",
+      "email": "test_recruiter@gmail.com",
+      "password": "password123",
+      "role": "Recruiter",
+      "company": "SkillBridge Corp"
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Frontend Developer",
+      "company": "TechCorp",
+      "skills": [
+        "React",
+        "JavaScript",
+        "Tailwind CSS"
+      ],
+      "type": "Job",
+      "location": "Remote",
+      "salary": "$80,000 - $120,000"
+    },
+    {
+      "id": 2,
+      "title": "Backend Engineer",
+      "company": "Innovate Solutions",
+      "skills": [
+        "Node.js",
+        "Express",
+        "JavaScript",
+        "MongoDB",
+        "SQL"
+      ],
+      "type": "Job",
+      "location": "Remote",
+      "salary": "$80,000 - $120,000"
+    },
+    {
+      "id": 3,
+      "title": "Full Stack Web Developer",
+      "company": "WebWorks",
+      "skills": [
+        "React",
+        "Node.js",
+        "Express",
+        "Tailwind CSS"
+      ],
+      "type": "Job",
+      "location": "Remote",
+      "salary": "$80,000 - $120,000"
+    },
+    {
+      "id": 4,
+      "title": "Python Data Analyst",
+      "company": "Data Analytics Inc",
+      "skills": [
+        "Python",
+        "SQL",
+        "Pandas"
+      ],
+      "type": "Job",
+      "location": "Remote",
+      "salary": "$80,000 - $120,000"
+    },
+    {
+      "id": 5,
+      "title": "DevOps Engineer",
+      "company": "Cloud Systems",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Linux"
+      ],
+      "type": "Job",
+      "location": "Remote",
+      "salary": "$80,000 - $120,000"
+    },
+    {
+      "id": 6,
+      "title": "UI/UX Design Intern",
+      "company": "Creative Studio",
+      "skills": [
+        "Figma",
+        "UI Design",
+        "Prototyping"
+      ],
+      "type": "Internship",
+      "location": "Remote",
+      "salary": "$80,000 - $120,000"
+    },
+    {
+      "id": 7,
+      "title": "Software Engineer Intern",
+      "company": "Global Tech",
+      "skills": [
+        "Java",
+        "C++",
+        "Data Structures"
+      ],
+      "type": "Internship",
+      "location": "Remote",
+      "salary": "$80,000 - $120,000"
+    },
+    {
+      "id": 8,
+      "title": "Digital Marketing Intern",
+      "company": "Growth Hub",
+      "skills": [
+        "SEO",
+        "Content Writing",
+        "Social Media"
+      ],
+      "type": "Internship",
+      "location": "Remote",
+      "salary": "$80,000 - $120,000"
+    }
+  ],
+  "applications": [
+    {
+      "id": 1775759657534,
+      "jobId": 1,
+      "jobTitle": "Frontend Developer",
+      "studentEmail": "xxx@gmail.com",
+      "studentName": "xxx",
+      "matchPercentage": 100,
+      "coverMessage": "I have a 100% match for this position and I am excited to apply!",
+      "status": "Selected",
+      "qualification": "Degree in Computer Science",
+      "experience": "Relevant Projects & Internships",
+      "courses": [],
+      "appliedAt": "2026-04-09T18:34:17.534Z"
+    },
+    {
+      "id": 1775761013849,
+      "jobId": 1,
+      "jobTitle": "Frontend Developer",
+      "studentEmail": "student@test.com",
+      "studentName": "Test Student",
+      "matchPercentage": 100,
+      "coverMessage": "I have a 100% match for this position and I am excited to apply!",
+      "status": "Applied",
+      "qualification": "Degree in Computer Science",
+      "experience": "Relevant Projects & Internships",
+      "courses": [
+        "Full Stack Dev (Coursera)",
+        "Modern React (Udemy)"
+      ],
+      "appliedAt": "2026-04-09T18:56:53.849Z"
+    },
+    {
+      "id": 1775762221580,
+      "jobId": 3,
+      "jobTitle": "Full Stack Web Developer",
+      "studentEmail": "student@test.com",
+      "studentName": "Test Student",
+      "matchPercentage": 75,
+      "coverMessage": "I have a 75% match for this position and I am excited to apply!",
+      "status": "Rejected",
+      "qualification": "Degree in Computer Science",
+      "experience": "Relevant Projects & Internships",
+      "courses": [
+        "Full Stack Dev (Coursera)",
+        "Modern React (Udemy)"
+      ],
+      "appliedAt": "2026-04-09T19:17:01.580Z",
+      "rejectionRemark": "need more certificates"
+    },
+    {
+      "id": 1775770773680,
+      "jobId": 3,
+      "jobTitle": "Full Stack Web Developer",
+      "studentEmail": "xxx@gmail.com",
+      "studentName": "xxx",
+      "matchPercentage": 75,
+      "coverMessage": "I have a 75% match for this position and I am excited to apply!",
+      "status": "Rejected",
+      "qualification": "Degree in Computer Science",
+      "experience": "Relevant Projects & Internships",
+      "courses": [
+        "database certificate"
+      ],
+      "appliedAt": "2026-04-09T21:39:33.680Z",
+      "rejectionRemark": "need more certificates for validation\n"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1775766927711,
+      "studentEmail": "xxx@gmail.com",
+      "title": "sql certificate",
+      "files": [
+        {
+          "name": "database certificate.pdf",
+          "path": "/uploads/files-1775766927707-428278693.pdf",
+          "size": 279813,
+          "uploadedAt": "2026-04-09T20:35:27.711Z"
+        }
+      ],
+      "createdAt": "2026-04-09T20:35:27.711Z"
+    },
+    {
+      "id": 1775770680197,
+      "studentEmail": "xxx@gmail.com",
+      "title": "database certificate",
+      "files": [
+        {
+          "name": "database certificate.pdf",
+          "path": "/uploads/files-1775770680187-194021700.pdf",
+          "size": 279813,
+          "uploadedAt": "2026-04-09T21:38:00.197Z"
+        }
+      ],
+      "createdAt": "2026-04-09T21:38:00.197Z"
+    }
+  ]
+}
